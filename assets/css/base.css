@@ -105,7 +105,7 @@ html{
         align-items: flex-start;
     }
 
-    .header__navbar-item  .header__navbar-item-link{
+    .header__navbar-item .header__navbar-icon .header__navbar-item-link{
         font-size: 1.2rem;
     }
 
@@ -116,7 +116,7 @@ html{
     .header__navbar-user-name span {
         font-size: 1.2rem;
     }
-    /* Thêm các chỉnh sửa khác cho mobile ở đây */
+    
 }
 
 /* Tablet: 740px <= width < 1024px */
